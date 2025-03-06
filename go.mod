@@ -1,4 +1,4 @@
-module github.com/mehanizm/airtable
+module github.com/crodeon/airtable
 
 go 1.23
 
